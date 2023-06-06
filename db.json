@@ -1,0 +1,75 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "aajad",
+            "email": "aajad@gmail.com",
+            "password": "123",
+            "avatar": "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_640.png"
+        },
+        {
+            "id": 2,
+            "name": "aajad",
+            "email": "ak@gmail.com",
+            "password": "123",
+            "avatar": "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_640.png"
+        }
+    ],
+    "expense": [
+        {
+            "id": 1,
+            "name": "aajad",
+            "image":"https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_640.png",
+            "income": [
+                {
+                    "category": "Salary",
+                    "amount": 9000
+                },
+                {
+                    "category": "Gifts",
+                    "amount": 8000
+                }
+                ,
+                {
+                    "category": "Refunds",
+                    "amount": 5000
+                }
+                ,
+                {
+                    "category": "Others",
+                    "amount": 6000
+                }
+            ],
+            "expenses":[
+                {
+                    "category": "Food & Drinks",
+                    "amount": 9000
+                },
+                {
+                    "category": "Shopping",
+                    "amount": 8000
+                }
+                ,
+                {
+                    "category": "Housing",
+                    "amount": 5000
+                }
+                ,
+                {
+                    "category": "Bills",
+                    "amount": 6000
+                }
+                ,
+                {
+                    "category": "Lifestyle",
+                    "amount": 6000
+                }
+                ,
+                {
+                    "category": "Vehicle & Transport",
+                    "amount": 6000
+                }
+            ]
+        }
+    ]
+}
